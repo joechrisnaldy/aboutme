@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joechrisnaldy
+- 👋 Hi, My name is Jonathan Chrisnaldy, I'm a Computer Science and Statistics student.
 - 👀 I’m interested in Analyze and modelling data using R, Python and Tableau
 - 🌱 I’m currently learning working as an Analyst in Red&White Consulting
 - 💞️ I’m looking to collaborate on Analyst, Project Management.
