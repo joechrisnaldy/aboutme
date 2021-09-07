@@ -1,5 +1,4 @@
 # aboutme
-About me, and my CV
 
 - 👋 Hi, My name is Jonathan Chrisnaldy, I'm a Computer Science and Statistics student.
 - 👀 I’m interested in Analyze and modelling data using R, Python and Tableau
